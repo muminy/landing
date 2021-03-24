@@ -214,10 +214,10 @@ main {
   position: absolute;
   background-image: radial-gradient(
     circle at 100% 44%,
-    rgba(240, 58, 151, 0.14),
+    rgba(240, 58, 152, 0.301),
     rgba(216, 216, 216, 0) 71%
   );
-  filter: blur(60px);
+  filter: blur(80px);
   width: 400px;
   top: 140px;
   left: -180px;
@@ -230,10 +230,10 @@ main {
   position: absolute;
   background-image: radial-gradient(
     circle at 100% 44%,
-    rgba(46, 197, 246, 0.14),
+    rgba(46, 196, 246, 0.404),
     rgba(216, 216, 216, 0) 71%
   );
-  filter: blur(60px);
+  filter: blur(80px);
   width: 400px;
   top: 140px;
   right: -180px;
